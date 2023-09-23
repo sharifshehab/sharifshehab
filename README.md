@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sharif Shehab</h1>
 <h3 align="center">A passionate Front-End-Designer and Wordpress Custom Theme/Plugin Developer from Bangladesh.</h3>
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/nahian28?logo=twitter&style=for-the-badge" alt="nahian28" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.anahian.com](https://www.anahian.com)
