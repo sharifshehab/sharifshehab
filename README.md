@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/onwebdesk](https://www.behance.net/onwebdesk)
 
-- 📫 How to reach me **nahiansylhet@gmail.com**
+- 📫 How to reach me **svshuvo696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
