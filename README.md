@@ -14,6 +14,7 @@
 <a href="https://codepen.io/nahian28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nahian28" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nahian28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nahian91" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://live.staticflickr.com/7813/32486799877_d78bc9afc4.jpg" alt="nahian91" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
