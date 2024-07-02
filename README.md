@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Sharif Shehab</h1>
-<h3 align="center">A passionate Front-End-Designer and Wordpress Custom Theme/Plugin Developer from Bangladesh.</h3>
+<h3 align="center">A passionate Front-End-Designer and Wordpress Custom Theme Developer from Bangladesh.</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/nahian28?logo=twitter&style=for-the-badge" alt="nahian28" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/shehab?logo=twitter&style=for-the-badge" alt="sheahb" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/onwebdesk](https://www.behance.net/onwebdesk)
 
@@ -11,10 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nahian28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nahian28" height="30" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nahian28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nahian91" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="[https://live.staticflickr.com/7813/32486799877_d78bc9afc4.jpg](https://seeklogo.com/images/P/pinterest-icon-logo-D4965B6748-seeklogo.com.png)" alt="nahian91" height="30" width="40" /></a>
+
+    
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" alt="shehab" height="30" width="30" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="shehab" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/25172/dribbble.svg" alt="shehab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="shehab" height="30" width="30" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/2504/2504839.png" alt="shehab" height="30" width="30" /></a>
+<a href="[https://linkedin.com/in/]()" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/pinterest-round-icon-2048x2048-xbx4nk1f.png" alt="shehab" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
