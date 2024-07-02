@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sharif Shehab</h1>
 <h3 align="center">A passionate Front-End-Designer and Wordpress Custom Theme Developer from Bangladesh.</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/shehab?logo=twitter&style=for-the-badge" alt="sharifshehab" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/shehab?logo=twitter&style=for-the-badge" alt="sharifshehab" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/onwebdesk](https://www.behance.net/onwebdesk)
+- 👨‍💻 All of my projects are available at:  <a href="https://www.behance.net/onwebdesk" target="_blank">Behance</a>
 
 - 📫 How to reach me **svshuvo696@gmail.com**
 
@@ -13,12 +13,12 @@
 <p align="left">
 
     
-<a href="https://app.netlify.com/teams/sharifshehab/sites" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" alt="sharifshehab" height="30" width="30" /></a>
-<a href="https://www.behance.net/onwebdesk" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="sharifshehab" height="30" width="40" /></a>
-<a href="https://dribbble.com/onewebdesk" target="blank"><img align="center" src="https://www.svgrepo.com/show/25172/dribbble.svg" alt="sharifshehab" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sharifshehab/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sharifshehab" height="30" width="30" /></a>
-<a href="https://x.com/Shehab0026" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" alt="sharifshehab" height="33" width="33" /></a>
-<a href="https://www.pinterest.com/onlywebdesk/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/pinterest-round-icon-2048x2048-xbx4nk1f.png" alt="sharifshehab" height="30" width="30" /></a>
+<a href="https://app.netlify.com/teams/sharifshehab/sites" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" alt="sharifshehab" height="30" width="30" /></a>
+<a href="https://www.behance.net/onwebdesk" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="sharifshehab" height="30" width="40" /></a>
+<a href="https://dribbble.com/onewebdesk" target="_blank"><img align="center" src="https://www.svgrepo.com/show/25172/dribbble.svg" alt="sharifshehab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharifshehab/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sharifshehab" height="30" width="30" /></a>
+<a href="https://x.com/Shehab0026" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" alt="sharifshehab" height="33" width="33" /></a>
+<a href="https://www.pinterest.com/onlywebdesk/" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/pinterest-round-icon-2048x2048-xbx4nk1f.png" alt="sharifshehab" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
