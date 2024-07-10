@@ -13,7 +13,7 @@
 <p align="left">
 
     
-<a href="https://app.netlify.com/teams/sharifshehab/sites" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" alt="sharifshehab" height="30" width="30" /></a>
+
 <a href="https://www.behance.net/onwebdesk" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="sharifshehab" height="30" width="40" /></a>
 <a href="https://dribbble.com/onewebdesk" target="_blank"><img align="center" src="https://www.svgrepo.com/show/25172/dribbble.svg" alt="sharifshehab" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sharifshehab/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sharifshehab" height="30" width="30" /></a>
