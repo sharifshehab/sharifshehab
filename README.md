@@ -1,19 +1,5 @@
 <div align="center">
-  <img height="350"  src="https://raw.githubusercontent.com/sharifshehab/sharifshehab/refs/heads/main/Untitled.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sharifshehab.sharifshehab&"  />
+  <img height="480" src="https://i.ibb.co.com/B3NFkFv/Untitled.png"  />
 </div>
 
 ###
@@ -30,7 +16,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hello, I'm Sharif Shehab. My journey into the digital world began with graphic design, where I developed my skills in creating brand logos, banners, business cards, and UI templates. Over time, I realized that merely designing templates wasn’t enough—I wanted to see my designs come to life and function dynamically on the web. This curiosity and drive to create more interactive and engaging digital experiences led me to explore the world of coding. I started my development journey with WordPress, where I built websites that were not only visually appealing but also functional and user-friendly. This initial step into web development fueled my passion further, pushing me to expand my skill set. I soon transitioned to the MERN stack—comprising MongoDB, Express.js, React, and Node.js—allowing me to grow into a full-stack web developer. Today, I strive to seamlessly blend my design sensibilities with my coding expertise, transforming ideas into fully functional, well-crafted websites that offer great user experiences. I aim to merge creativity with cutting-edge technology, delivering digital solutions that genuinely help users and clients alike. Whether it's a simple blog or a complex web application, I am dedicated to creating impactful digital experiences that will stand out.<br><br>- 🖥️ I'm currently learning  NEXT.js<br>- 📱 My future plan is to explore React Native and develop high-quality mobile apps for both iOS and Android.<br>- 🎮 In my free time, I love gaming and watching anime series.</p>
 
 ###
 
