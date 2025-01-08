@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="480" src="https://raw.githubusercontent.com/sharifshehab/sharifshehab/refs/heads/main/Untitled.png"  />
+  <img height="430" src="https://raw.githubusercontent.com/sharifshehab/sharifshehab/refs/heads/main/Untitled.png"  />
 </div>
 
 ###
