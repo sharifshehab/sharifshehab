@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi I'm Sharif Shehab</h2>
+<h2 align="center">Hi, I'm Sharif Shehab</h2>
 
 ###
 
