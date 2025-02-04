@@ -54,7 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img height="40" src="https://i.ibb.co.com/r2v38GL4/express.png"  />
-  <img width="16" />
+  <img width="18" />
+  <img height="40" src="https://i.ibb.co.com/mFcbyCP0/jwt-logo.png"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
