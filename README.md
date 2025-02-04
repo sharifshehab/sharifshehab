@@ -53,7 +53,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://i.ibb.co.com/r2v38GL4/express.png" height="40" alt="expressjs logo"  />
+<!--   <img src="https://i.ibb.co.com/r2v38GL4/express.png" height="40" alt="expressjs logo"  /> -->
+   <img height="40" src="https://i.ibb.co.com/r2v38GL4/express.png"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
