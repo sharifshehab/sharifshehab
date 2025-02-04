@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img height="40" src="https://i.ibb.co.com/p8zXxwW/Tailwind-CSS-Logo-svg.png"  />
+  <img height="30" src="https://i.ibb.co.com/p8zXxwW/Tailwind-CSS-Logo-svg.png"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
