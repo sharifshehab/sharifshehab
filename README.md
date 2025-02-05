@@ -21,7 +21,7 @@ with TanStack Query and Axios for seamless API integration with dynamic backend 
 
 ###
 
-<h3 align="left">My skill Set</h3>
+<h3 align="left">My Skill Set</h3>
 
 ###
 
@@ -78,7 +78,7 @@ with TanStack Query and Axios for seamless API integration with dynamic backend 
 
 ###
 
-<h3 align="left">You can  find me on:</h3>
+<h3 align="left">Reach Me On:</h3>
 
 ###
 
