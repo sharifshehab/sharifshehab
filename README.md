@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hello, I'm Sharif Shehab. A MERN stack developer with a strong foundation in React.js, Node.js, Express.js, MongoDB, and REST API development. Hands-on experience in building responsive, user-friendly interfaces with shared components using modern UI frameworks, managing global state throughout the application using Context API, and efﬁciently handling server-side management and HTTP requests 
+<p align="left">Hello, I'm Sharif Shehab.<br> A MERN stack developer with a strong foundation in React.js, Node.js, Express.js, MongoDB, and REST API development. Hands-on experience in building responsive, user-friendly interfaces with shared components using modern UI frameworks, managing global state throughout the application using Context API, and efﬁciently handling server-side management and HTTP requests 
 with TanStack Query and Axios for seamless API integration with dynamic backend systems.<br><br>- 🖥️ I'm currently learning  NEXT.js<br>- 📱 My future plan is to explore React Native and develop high-quality mobile apps for both iOS and Android.<br>- 🎮 In my free time, I love gaming and watching anime series.</p>
 
 ###
