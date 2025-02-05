@@ -19,7 +19,7 @@
 <p align="left">A MERN stack developer with a strong foundation in React.js, Node.js, Express.js, MongoDB, and REST API development. Hands-on experience in building responsive, user-friendly interfaces with shared components using modern UI frameworks, managing global state throughout the application using Context API, and efﬁciently handling server-side management and HTTP requests 
 with TanStack Query and Axios for seamless API integration with dynamic backend systems.<br><be>
                                                                                               
-  - 🖥️ I'm currently learning  NEXT.js<br>
+  - 🖥️ I'm currently learning Next.js, focusing on its core features and latest updates.<br>
   - 📱 My future plan is to explore React Native and develop high-quality mobile apps for both iOS and Android.<be>
   - 🎮 In my free time, I love gaming and watching anime series.</p>
 
