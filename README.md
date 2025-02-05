@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://i.ibb.co.com/KxrvbcyC/cover-photo.png"  />
+  <img height="350" src="https://i.ibb.co.com/99Q2ZnNF/cover-photo.png"  />
 </div>
 
 ###
