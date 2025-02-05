@@ -78,7 +78,7 @@ with TanStack Query and Axios for seamless API integration with dynamic backend 
 
 ###
 
-<h3 align="left">You can  find me:</h3>
+<h3 align="left">You can  find me on:</h3>
 
 ###
 
