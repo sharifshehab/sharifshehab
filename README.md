@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">Hi there, I'm Sharif Shehab</h2>
+<h2 align="center">Hi there, I'm Sharif Shehabuzzaman</h2>
 
 ###
 
-<h1 align="center">MERN Stack Developer</h1>
+<h1 align="center">Full Stack Developer</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">A MERN stack developer with a strong foundation in React.js, Node.js, Express.js, MongoDB, and REST API development. Hands-on experience in building responsive, user-friendly interfaces with shared components using modern UI frameworks, managing global state throughout the application using Context API, and efﬁciently handling server-side management and HTTP requests 
+<p align="left">A full-stack developer with a strong foundation in React.js, Node.js, Express.js, MongoDB, and REST API development. Hands-on experience in building responsive, user-friendly interfaces with shared components using modern UI frameworks, managing global state throughout the application using Context API, and efﬁciently handling server-side management and HTTP requests 
 with TanStack Query and Axios for seamless API integration with dynamic backend systems.<br><be>
                                                                                               
   - 🖥️ I'm currently learning Next.js, focusing on its core features and latest updates.<br>
