@@ -72,13 +72,17 @@ I’m a Full Stack Developer who loves working with JavaScript/TypeScript and ex
   </a>
 </div>
 
+</div>
+
 ## GitHub Stats:
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sharifshehab&theme=aura&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sharifshehab&theme=aura&hide_border=false" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifshehab&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
-
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sharifshehab&theme=aura&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sharifshehab&theme=aura&hide_border=false" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifshehab&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+  </span>
 </div>
+
+
 
 
