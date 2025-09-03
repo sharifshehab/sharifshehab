@@ -17,9 +17,9 @@ I’m a Full Stack Developer who loves working with JavaScript/TypeScript and ex
 2. **Codebases that are easy to navigate**
 3. **Scalability as projects grow**
 
-<h4 style="text-decoration: underline;">💫 <ins>A Few Quick Facts:</ins></h4>
+<h4>💫 <ins>A Few Quick Facts:</ins></h4>
 
-- Currently exploring about **Architecture Patterns**, **Codebase Management Approach**, and a bit of **DevOps**.**
+- Currently exploring about **Architecture Patterns**, **Codebase Management Approach**, and a bit of **DevOps**
 - Most of my projects are available on GitHub.
 - Ping me about **React**, **Express**, **Next**, and **Cloud stuff**.
 - Fun Fact: **Fascinated about the ocean.**
