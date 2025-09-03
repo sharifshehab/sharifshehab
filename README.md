@@ -14,7 +14,7 @@ I’m a Full Stack Developer who loves working with JavaScript/TypeScript and ex
 1. **Developer-friendly architecture**
 2. **Codebases that are easy to navigate**
 3. **Scalability as projects grow**
-<br/>
+
 <h4>💫 <ins>A Few Quick Facts:</ins></h4>
 
 - Currently exploring  **Architecture Patterns**, **Codebase Management Approach**, and a bit of **DevOps**.
