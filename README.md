@@ -13,19 +13,17 @@
 I’m a Full Stack Developer who loves working with JavaScript/TypeScript and exploring modern frameworks, tools, and cloud technologies (<b>React.js</b> · <b>Next.js</b> · <b>Node.js</b> · <b>PostgreSQL</b> · <b>Docker</b> · <b>AWS</b>). 
 
 <b>Depending on the task at hand, I tend to quickly adapt to new tech stacks and leverage them to build scalable systems with a focus on:</b>
-<br/>
-
 1. **Developer-friendly architecture**
 2. **Codebases that are easy to navigate**
 3. **Scalability as projects grow**
 
-<h4 style="text-decoration: underline;">💫 A Few Quick Facts:</h4>
+<h4 style="text-decoration: underline;">💫 <ins>A Few Quick Facts:</ins></h4>
 
 - Currently exploring about **Architecture Patterns**, **Codebase Management Approach**, and a bit of **DevOps**.**
 - Most of my projects are available on GitHub.
 - Ping me about **React**, **Express**, **Next**, and **Cloud stuff**.
 - Fun Fact: **Fascinated about the ocean.**
-- Checkout my: <a href="https://drive.google.com/file/d/1GWL3OZzYcFtFcj4z61Bc3g5Dw5mApc1U/view?usp=drive_link" target="_blank">Resume</a>
+- Checkout my: <a href="https://drive.google.com/file/d/1GWL3OZzYcFtFcj4z61Bc3g5Dw5mApc1U/view?usp=drive_link">Resume</a>
 
 <br/>
 
