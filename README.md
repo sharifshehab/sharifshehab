@@ -55,6 +55,21 @@ I’m a Full Stack Developer who loves working with JavaScript/TypeScript and ex
 
 <br/>
 
+
+<!-- START OF Blog Post -->
+<br/>
+
+## My Blog Posts:
+  
+| **Post Title** | 
+| - | 
+| [Leveling Up TypeScript](https://www.linkedin.com/posts/sharif-shehabuzzaman_advanced-typescript-oop-activity-7333830633644806144-BehN?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhjyAwBVDk-BRbqZm_o9m27ODrcBZFJvUY)  | 
+| [Why Every Developer Should Master Git](https://www.linkedin.com/posts/sharif-shehabuzzaman_what-are-the-advantages-of-using-git-activity-7313787582071390208-p--y?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhjyAwBVDk-BRbqZm_o9m27ODrcBZFJvUY)  | 
+| [How To Be Confident Even If You’re Not!](https://www.linkedin.com/posts/sharif-shehabuzzaman_how-to-be-confident-even-if-youre-not-activity-7313618007270780928-WTPH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhjyAwBVDk-BRbqZm_o9m27ODrcBZFJvUY)  | 
+| [How does the browser run JavaScript!](https://www.linkedin.com/posts/sharif-shehabuzzaman_how-does-the-browser-run-javascript-activity-7313444572859113472-Rk4i?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhjyAwBVDk-BRbqZm_o9m27ODrcBZFJvUY)  | 
+<!-- END OF Blog Post -->
+<br/>
+
 ## Let’s Have a Chat:
 <div align="left">
   <a href="https://www.linkedin.com/in/sharifshehab" target="_blank" rel="noopener noreferrer">
