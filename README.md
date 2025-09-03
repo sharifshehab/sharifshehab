@@ -10,9 +10,7 @@
 ###
 
 ## Hi there, it's Sharif Shehabuzzaman 
-I’m a Full Stack Developer who loves working with JavaScript/TypeScript and exploring modern frameworks, tools, and cloud technologies (<b>React.js</b> · <b>Next.js</b> · <b>Node.js</b> · <b>PostgreSQL</b> · <b>Docker</b> · <b>AWS</b>). 
-
-<b>Depending on the task at hand, I tend to quickly adapt to new tech stacks and leverage them to build scalable systems with a focus on:</b>
+I’m a Full Stack Developer who loves working with JavaScript/TypeScript and exploring modern frameworks, tools, and cloud technologies (<b>React.js</b> · <b>Next.js</b> · <b>Node.js</b> · <b>PostgreSQL</b> · <b>Docker</b> · <b>AWS</b>). Depending on the task at hand, I tend to quickly adapt to new tech stacks and leverage them to build scalable systems with a focus on:
 1. **Developer-friendly architecture**
 2. **Codebases that are easy to navigate**
 3. **Scalability as projects grow**
