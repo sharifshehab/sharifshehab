@@ -21,7 +21,7 @@ I’m a Full Stack Developer who loves working with JavaScript/TypeScript and ex
 - Most of my projects are available on GitHub.
 - Ping me about **React**, **Express**, **Next**, and **Cloud stuff**.
 - Fun Fact: **Fascinated about the ocean.**
-- Checkout my: <a href="https://drive.google.com/file/d/1GWL3OZzYcFtFcj4z61Bc3g5Dw5mApc1U/view?usp=drive_link">Resume</a>
+- Checkout my: <a href="https://drive.google.com/file/d/1GWL3OZzYcFtFcj4z61Bc3g5Dw5mApc1U/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
 
 <br/>
 
@@ -55,15 +55,15 @@ I’m a Full Stack Developer who loves working with JavaScript/TypeScript and ex
 
 <br/>
 
-## Let’s Chat:
+## Let’s Have a Chat:
 <div align="left">
-  <a href="https://www.linkedin.com/in/sharifshehab" target="_blank">
+  <a href="https://www.linkedin.com/in/sharifshehab" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/svshuvo.4.0" target="_blank">
+  <a href="https://www.facebook.com/svshuvo.4.0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://discord.com/users/svshuvo1885" target="_blank">
+  <a href="https://discord.com/users/svshuvo1885" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
