@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="350" src="https://i.ibb.co.com/99Q2ZnNF/cover-photo.png"  />
+  <img height="650" src="[https://i.ibb.co.com/99Q2ZnNF/cover-photo.png](https://i.ibb.co.com/7NQd8p73/cover-photo.png)"  />
+<!--   <img height="650" src="https://i.ibb.co.com/99Q2ZnNF/cover-photo.png"  /> -->
 </div>
 
 <h1 align="center">Full Stack Developer</h1>
